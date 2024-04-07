@@ -3,7 +3,7 @@ import Footer from './ui/footer';
 
 export default function NotFound() {
   return (
-    <div className="bg-white min-h-screen dark:bg-slate-800 flex flex-col">
+    <div className="bg-white min-h-screen dark:bg-slate-900 flex flex-col">
       <Header />
         <div className="grid place-items-center px-6 py-24 sm:py-32 lg:px-8 flex-grow">
           <div className="text-center">
