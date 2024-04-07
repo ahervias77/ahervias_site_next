@@ -3,7 +3,7 @@ import Footer from './ui/footer';
 
 export default function HomePage() {
   return (
-    <div className="bg-white min-h-screen dark:bg-slate-800 flex flex-col">
+    <div className="bg-white min-h-screen dark:bg-slate-900 flex flex-col">
       <Header />
       <div className="relative isolate px-6 pt-14 lg:px-8 flex-grow">
         <div

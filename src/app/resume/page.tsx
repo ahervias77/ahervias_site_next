@@ -72,10 +72,10 @@ const languages = [
 
 export default function Resume() {
   return (
-    <div className="bg-white min-h-screen dark:bg-slate-800 flex flex-col">
+    <div className="bg-white min-h-screen dark:bg-slate-900 flex flex-col">
       <Header />
         <div className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:px-8 flex-grow">
-          <div className="mx-auto max-w-2xl lg:text-center">
+          <div className="mx-auto max-w-2xl">
             <h2 className="text-base font-semibold leading-7 text-indigo-600 dark:text-indigo-500">Resume</h2>
             <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl dark:text-gray-100">
               Experience
