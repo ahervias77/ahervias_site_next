@@ -1,2 +1,6 @@
 # ahervias_site_next
-Next.js personal site
+
+## Requirements
+* Node
+* Next.js
+* Tailwind CSS
