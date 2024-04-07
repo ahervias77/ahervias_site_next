@@ -70,7 +70,7 @@ const languages = [
   },
 ]
 
-export default function Example() {
+export default function Resume() {
   return (
     <div className="bg-white min-h-screen dark:bg-slate-800 flex flex-col">
       <Header />
